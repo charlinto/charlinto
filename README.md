@@ -7,9 +7,17 @@
 
 - 🌱 I’m currently learning **golang,Reactjs**
 
+- 👯 I’m looking to collaborate on [Empowering Farmers, Enhancing Agriculture](https://yolaweb.vercel.app/)
+
 - 👨‍💻 All of my projects are available at [https://charlinto.netlify.app/](https://charlinto.netlify.app/)
 
+- 💬 Ask me about **Nodejs,Nestjs And TypeScript**
+
 - 📫 How to reach me **fyaklekcharlesmichael@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wVanQPIwrFo6AXF3mj8CHKic8a3ChhMq/view](https://drive.google.com/file/d/1wVanQPIwrFo6AXF3mj8CHKic8a3ChhMq/view)
+
+- ⚡ Fun fact **Am a cheller**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
